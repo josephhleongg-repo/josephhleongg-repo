@@ -12,10 +12,10 @@ My journey in Cybersecurity has led me to develop a passion for problem solving,
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setting Up a Basic Network with (Windows AD, Host Machines, Splunk Server, Malicious Actor (Kali))          | <a href="">Active Directory Project (Home Lab)</a>|
-| Generating and Identifying Telemetry on Splunk         | <a href="">Active Directory Project (Home Lab)</a>|
-| Generated Attacks using Atomic Red Team         | <a href="">Active Directory Project (Home Lab)</a>|
-| Brute Force Attacking using Crowbar && Hydra         | <a href="">Active Directory Project (Home Lab)</a>|
+| Setting Up a Basic Network with (Windows AD, Host Machines, Splunk Server, Malicious Actor (Kali))          | <a href="https://github.com/josephhleongg-repo/Active-Directory-Home-Lab-/tree/main">Active Directory Project (Home Lab)</a>|
+| Generating and Identifying Telemetry on Splunk         | <a href="https://github.com/josephhleongg-repo/Active-Directory-Home-Lab-/tree/main">Active Directory Project (Home Lab)</a>|
+| Generated Attacks using Atomic Red Team         | <a href="https://github.com/josephhleongg-repo/Active-Directory-Home-Lab-/tree/main">Active Directory Project (Home Lab)</a>|
+| Brute Force Attacking using Crowbar && Hydra         | <a href="https://github.com/josephhleongg-repo/Active-Directory-Home-Lab-/tree/main">Active Directory Project (Home Lab)</a>|
 
 ## Tools
 
@@ -41,4 +41,4 @@ My journey in Cybersecurity has led me to develop a passion for problem solving,
 </div>
 
 ## Projects
-- Active Directory Project (Home Lab)
+- <a href="https://github.com/josephhleongg-repo/Active-Directory-Home-Lab-/tree/main">Active Directory Project (Home Lab)</a>
